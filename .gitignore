@@ -1,0 +1,65 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Models (large files)
+*.pt
+*.pth
+*.pkl
+*.h5
+*.onnx
+models/yolo/best.pt
+models/*/*.pkl
+
+# Data
+data/raw/
+data/processed/
+*.csv
+!data/hotspots.csv
+!data/aggregated_results.csv
+
+# Outputs
+outputs/*.json
+outputs/*.pdf
+outputs/*.png
+outputs/*.csv
+
+# Config & Secrets
+.env
+config/credentials.yaml
+!config/credentials.example.yaml
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Temporary
+temp/
+tmp/
+cache/

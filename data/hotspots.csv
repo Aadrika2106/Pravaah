@@ -1,0 +1,9 @@
+latitude,longitude,location,risk_level,concentration,temperature,aqi,turbidity
+28.6139,77.2090,Delhi - Yamuna,high,185,28.5,142,68
+19.0760,72.8777,Mumbai - Mithi River,medium,120,26.2,95,52
+13.0827,80.2707,Chennai - Cooum,medium,145,27.8,88,58
+22.5726,88.3639,Kolkata - Hooghly,high,215,29.1,158,75
+12.9716,77.5946,Bangalore - Vrishabhavathi,low,95,25.5,75,42
+17.3850,78.4867,Hyderabad - Musi River,medium,132,27.2,102,55
+18.5204,73.8567,Pune - Mula-Mutha,low,88,24.8,68,38
+23.0225,72.5714,Ahmedabad - Sabarmati,high,178,30.2,135,72

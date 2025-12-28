@@ -1,0 +1,11 @@
+sample_id,location,date,yolo_count,spectral_pred,tabular_risk,concentration,risk_score,polymer_type
+1,Delhi,2024-01-15,12,PET,high,185,8.2,PET
+2,Mumbai,2024-01-16,8,PE,medium,120,6.1,PE
+3,Chennai,2024-01-17,5,PP,medium,145,5.8,PP
+4,Kolkata,2024-01-18,15,PS,high,215,8.8,PS
+5,Bangalore,2024-01-19,3,PE,low,95,3.5,PE
+6,Hyderabad,2024-01-20,9,PET,medium,132,6.3,PET
+7,Pune,2024-01-21,4,PP,low,88,3.8,PP
+8,Ahmedabad,2024-01-22,13,PVC,high,178,7.9,PVC
+9,Delhi,2024-01-23,11,PE,high,192,8.1,PE
+10,Mumbai,2024-01-24,7,PET,medium,115,5.9,PET

@@ -1,0 +1,11 @@
+streamlit
+ultralytics
+torch
+numpy
+pandas
+scikit-learn
+joblib
+plotly
+pillow
+prophet
+python-dotenv
