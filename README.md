@@ -96,7 +96,7 @@ streamlit run app.py
 
 
 
-\*\*Access at:\*\* http://localhost:8501
+\*\*Access at:\*\* http://localhost:8506
 
 
 
@@ -211,11 +211,9 @@ MIT License - see \[LICENSE](LICENSE) file
 
 
 
-\- Your Name - Project Lead
+\- Aadrika Gupta - Project Lead
 
-\- Mayur - ML Development
-
-\- Team Members
+\- Sangyan Hari Pushkar, Mayur Mundada - Team Members
 
 
 
@@ -227,9 +225,9 @@ MIT License - see \[LICENSE](LICENSE) file
 
 
 
-\- Email: your.email@example.com
+\- Email: bt24eci032@iiitn.ac.in
 
-\- GitHub: \[@yourusername](https://github.com/yourusername)
+\- GitHub: \[@Aadrika2106](https://github.com/Aadrika2106)
 
 
 
