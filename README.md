@@ -49,9 +49,6 @@ The system is deployed as an interactive Streamlit dashboard with role-based acc
 
 ## Live Demo
 
-Dashboard URL:
-[https://pravaah-8ubxbo9e4ssm9okxtagnye.streamlit.app/](https://pravaah-8ubxbo9e4ssm9okxtagnye.streamlit.app/)
-
 Demo Access:
 Select any user role from the sidebar (no authentication required for demo).
 
